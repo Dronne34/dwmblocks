@@ -22,9 +22,9 @@ static const Block blocks[] = {
 	{"",	"sb-nettraf",	1,	16},
 	{"",	"sb-volume",	0,	10},
 	{"",	"sb-light",  	3,	12},
-	{"",	"sb-battery",	5,	3},
 	{"",	"sb-clock",	     60,	1},
 	{"",	"sb-internet",	5,	4},
+	{"",	"sb-battery",	5,	3},
 	/* {"",	"sb-iplocate", 0,	27}, */
 	// {"",	"sb-help-icon",	0,	15},
 };
