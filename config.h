@@ -19,12 +19,12 @@ static const Block blocks[] = {
 	{"",	"sb-doppler",	0,	13},
 	{"",	"sb-forecast",	18000,	5},
 //	{"",	"sb-mailbox",	180,	12},
-	{"",	"sb-nettraf",	1,	16},
 	{"",	"sb-volume",	0,	10},
 	{"",	"sb-light",  	3,	12},
 	{"",	"sb-clock",	     60,	1},
 	{"",	"sb-internet",	5,	4},
 	{"",	"sb-battery",	5,	3},
+	// {"",	"sb-nettraf",	1,	16},
 	/* {"",	"sb-iplocate", 0,	27}, */
 	// {"",	"sb-help-icon",	0,	15},
 };
